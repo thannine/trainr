@@ -1,6 +1,6 @@
 {
-  "name": "part3",
-  "homepage": "https://thannine.github.io/trainr/part3/",
+  "name": "trainr",
+  "homepage": "https://thannine.github.io/trainr/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
