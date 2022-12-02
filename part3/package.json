@@ -1,5 +1,6 @@
 {
-  "name": "part1",
+  "name": "part3",
+  "homepage": "https://thannine.github.io/trainr/part3/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -44,6 +45,7 @@
   },
   "devDependencies": {
     "@testing-library/jest-dom": "^5.16.5",
-    "@testing-library/react": "^13.4.0"
+    "@testing-library/react": "^13.4.0",
+    "gh-pages": "^4.0.0"
   }
 }
